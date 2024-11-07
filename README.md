@@ -3,14 +3,14 @@ This repository contains an evaluation of Google’s NotebookLM, focusing on its
 
 Explore the repository for:
 
-Summarization Results
-
-Generated Questions and Analysis
-
-Content Exploration Logs
-
-Note Organization Outputs
-
-Study Plan Samples
+  Summarization Results
+  
+  Generated Questions and Analysis
+  
+  Content Exploration Logs
+  
+  Note Organization Outputs
+  
+  Study Plan Samples
 
 This repository serves as a comprehensive resource for understanding NotebookLM’s utility in academic settings and areas for further improvement.
